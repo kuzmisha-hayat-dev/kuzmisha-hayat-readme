@@ -51,9 +51,9 @@
 </div>
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-rauniyar-762618297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Rauniyar" height="26" width="35" /></a>
-<a href="https://instagram.com/_aditya.rauniyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="mailto:adityarauniyar.tech@gmail.com" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/2/Email-PNG-File-Download-Free.png" alt="adityarauniyar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-rauniyar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Rauniyar" height="26" width="35" /></a>
+
+<a href="mailto:kuzmishahayat@gmail.com" target="blank"><img align="center" src="https://www.pngall.com/wp-content/uploads/2/Email-PNG-File-Download-Free.png" alt="adityarauniyar" height="30" width="40" /></a>
 </p>
 
  <div align="left">
